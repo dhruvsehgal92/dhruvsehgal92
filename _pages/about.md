@@ -29,7 +29,7 @@ Global research theme
 Journey
 ======
 
-Feb 2026 - 
-Jan 2026 - Understanding Sediment Trapping eficiency of Dams.
-Dec 2025 - Attended AGU, New Orleans. Witnesed recent global trends in sediment world.
-Nov 2025 - Most of the sediments transport is ungauged.
+* Feb 2026 - 
+* Jan 2026 - Understanding Sediment Trapping eficiency of Dams.
+* Dec 2025 - Attended AGU, New Orleans. Witnesed recent global trends in sediment world.
+* Nov 2025 - Most of the sediments transport is ungauged.

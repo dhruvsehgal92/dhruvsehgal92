@@ -11,26 +11,21 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Sediment Monitoring, Wageningen University and Research, 2023
+* M.S. in Water Resources Engineering and Management, University of Stuttgart, 2017
+* B.Tech in Environmental Engineering, Delhi Technological University, 2015
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2023 - Present: Project Researcher
+  * The University of Tokyo
+  #* Duties includes: Updates and improvements to template
+  * Supervisor: Assoc. Prof. Dai Yamazaki
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018 - 2023: Doctoral Researcher
+  * University of Stuttgart
+  #* Duties included: Merging pull requests
+  * Supervisor: Dr. Nuria Martinez Carerras and Prof. Ton Hoitink
   
 Skills
 ======

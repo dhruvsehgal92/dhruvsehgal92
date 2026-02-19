@@ -19,12 +19,10 @@ Work experience
 ======
 * 2023 - Present: Project Researcher
   * The University of Tokyo
-  #* Duties includes: Updates and improvements to template
   * Supervisor: Assoc. Prof. Dai Yamazaki
 
 * 2018 - 2023: Doctoral Researcher
   * University of Stuttgart
-  #* Duties included: Merging pull requests
   * Supervisor: Dr. Nuria Martinez Carerras and Prof. Ton Hoitink
   
 Skills

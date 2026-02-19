@@ -2,7 +2,7 @@
 title: "The Impact of Flocculation on In Situ and Ex Situ Particle Size Measurements by Laser Diffraction"
 collection: publications
 category: manuscripts
-permalink: /publication/2023-12-29-paper-title-number-6
+permalink: /publication/2023-12-29-paper-title-number-7
 excerpt: 'This paper is about impact of flocculation on the differences between in-situ and ex-itu measurement of particle size.'
 date: 2023-12-29
 venue: 'Water Resources Research'

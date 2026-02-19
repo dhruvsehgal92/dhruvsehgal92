@@ -1,13 +1,12 @@
 ---
-title: "Bio-sorption of methylene blue from an aqueous solution using French green beans and Lotus Stem waste"
+title: "Where should hydrology go? An early-career perspective on the next IAHS Scientific Decade: 2023-2032"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about using bio waste to treat industrial waste water.'
-date: 2015-04-30
-venue: 'IEEE'
-paperurl: 'http://dx.doi.org/10.1109/ictsd.2015.7095914'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Dhruv Mehta, Dhruv Sehgal, Dhruv Katoria and P. Albino Kumar (20015). "Bio-sorption of methylene blue from an aqueous solution using French green beans and Lotus Stem waste"; International Conference on Technologies for Sustainable Development, IEEE. 978-1-4799-8187-8/15.'
+excerpt: 'This is an opinion paper about early-career perspective on the next decadal (2023-2032) trend of hydrology.'
+date: 2023-03-09
+venue: 'Hydrological Sciences Journal'
+paperurl: 'https://doi.org/10.1080/02626667.2023.2170754'
+citation: 'heresa C vam Hateren / Harro J Jongen, ........, Dhruv Sehgal, et al. (2023). "Where should hydrology go? An early-career perspective on the next IAHS Scientific Decade: 2023-2032"; Hydrological Sciences Journal. 68(4), 529-541.'
 ---
 

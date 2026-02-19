@@ -26,7 +26,7 @@ Global research theme
 ------
 
 
-Journey
+Monthly experiences
 ======
 
 * Feb 2026 - 

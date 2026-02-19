@@ -2,7 +2,7 @@
 title: "Bio-sorption of methylene blue from an aqueous solution using French green beans and Lotus Stem waste"
 collection: publications
 category: conferences
-permalink: /publication/2009-10-01-paper-title-number-4
+permalink: /publication/2015-04-30-paper-title-number-1
 excerpt: 'This paper is about using bio waste to treat industrial waste water.'
 date: 2015-04-30
 venue: 'IEEE'

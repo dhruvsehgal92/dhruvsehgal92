@@ -2,7 +2,7 @@
 title: "Fixed Bed Column Study and Adsorption Modeling on the Adsorption of Malachite Green dye from wastewater using Acid Activated Sawdust"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2015-06-22-paper-title-number-2
 excerpt: 'This paper is about use of bio waste to treat industrail waste water.'
 date: 2015-06-22
 venue: 'International Journal of Advanced Research'

@@ -35,7 +35,7 @@ var addressPoints = [
     28.9758715
   ],
   [
-    "A Comprehensive outlook to recent 15 years of riverine sediment transport in Japan<br />SUISUI 2021; Akita, Japan",
+    "A Comprehensive outlook to recent 15 years of riverine sediment transport in Japan<br />The Japan Society of Hydrology ans Water resources (SUISUI) 2021; Akita, Japan",
     39.6898802,
     140.342608
   ]

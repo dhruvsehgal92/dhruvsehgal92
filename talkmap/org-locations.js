@@ -28,5 +28,10 @@ var addressPoints = [
     "An experimental method to produce reproducible artificial sediment mixtures with cohesive properties for erosion experiments<br />EGU General Assembly 2019; Vienna, Austria",
     48.2083537,
     16.3725042
+  ],
+  [
+    "nferring suspended sediment organic and mineral fractions at high frequency from the optical response of a submerged spectromete<br />INTERCOH 2019; Istanbul, Turkey",
+    41.006381,
+    28.9758715
   ]
 ];

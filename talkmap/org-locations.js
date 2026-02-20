@@ -20,14 +20,14 @@ var addressPoints = [
     16.3725042
   ],
   [
+    "Inferring suspended sediment carbon content and particle size at high frequency from the optical response of a submerged spectrometer<br />EGU General Assembly 2021; (Online), Vienna, Austria",
+    48.2240483,
+    16.3572471
+  ],
+  [
     "High frequency monitoring of suspended sediment properties to accurately quantify suspended sediment fluxes<br />Netherlands Center for River Studies Days 2019; Utrecht, Netherlands",
     52.0907006,
     5.1215634
-  ],
-  [
-    "Inferring suspended sediment carbon content and particle size at high frequency from the optical response of a submerged spectrometer<br />EGU General Assembly 2021; (Online), Vienna, Austria",
-    48.2094582,
-    16.3682371
   ],
   [
     "An experimental method to produce reproducible artificial sediment mixtures with cohesive properties for erosion experiments<br />EGU General Assembly 2019; Vienna, Austria",

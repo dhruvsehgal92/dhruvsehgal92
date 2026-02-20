@@ -26,7 +26,7 @@ Global research theme
 ------
 
 
-Monthly experiences
+Monthly experiences and skills
 ======
 
 * Feb 2026 - 

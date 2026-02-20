@@ -20,6 +20,11 @@ var addressPoints = [
     16.3725042
   ],
   [
+    "Inferring suspended sediment carbon content and particle size at high frequency from the optical response of a submerged spectrometer<br />EGU General Assembly 2021; (Online), Vienna, Austria",
+    48.2240483,
+    16.3572471
+  ],
+  [
     "An experimental method to produce reproducible artificial sediment mixtures with cohesive properties for erosion experiments<br />EGU General Assembly 2019; Vienna, Austria",
     48.2083537,
     16.3725042

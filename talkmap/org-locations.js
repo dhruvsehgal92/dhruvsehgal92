@@ -10,11 +10,6 @@ var addressPoints = [
     140.2647303
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
-  ],
-  [
     "Influence of riverine suspended sediment carbon content and particle size on turbidity<br />EGU General Assembly 2022; Vienna, Austria",
     48.2083537,
     16.3725042

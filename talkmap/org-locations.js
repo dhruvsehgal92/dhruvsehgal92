@@ -5,6 +5,11 @@ var addressPoints = [
     4.3739604
   ],
   [
+    "The partial truth of suspended sediment particle size<br />JpGU Meeting 2024; Chiba, Japan",
+    35.549399,
+    140.2647303
+  ],
+  [
     "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
     37.8708393,
     -122.272863

@@ -33,5 +33,10 @@ var addressPoints = [
     "nferring suspended sediment organic and mineral fractions at high frequency from the optical response of a submerged spectromete<br />INTERCOH 2019; Istanbul, Turkey",
     41.006381,
     28.9758715
+  ],
+  [
+    "A Comprehensive outlook to recent 15 years of riverine sediment transport in Japan<br />SUISUI 2021; Akita, Japan",
+    39.6898802,
+    140.342608
   ]
 ];

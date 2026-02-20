@@ -18,5 +18,10 @@ var addressPoints = [
     "Influence of riverine suspended sediment carbon content and particle size on turbidity<br />EGU General Assembly 2022; Vienna, Austria",
     48.2083537,
     16.3725042
+  ],
+  [
+    "An experimental method to produce reproducible artificial sediment mixtures with cohesive properties for erosion experiments<br />EGU General Assembly 2019; Vienna, Austria",
+    48.2083537,
+    16.3725042
   ]
 ];
